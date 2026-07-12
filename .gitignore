@@ -1,0 +1,32 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+.env
+
+# Python cache
+**/__pycache__/
+
+# FAISS database (optional)
+backend/data/vectorstore/
+backend/data/chunks/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+backend/node_modules/
+backend/package.json
+backend/package-lock.json
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# OS
+Thumbs.db
+.DS_Store

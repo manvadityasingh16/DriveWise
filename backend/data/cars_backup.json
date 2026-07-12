@@ -1,0 +1,112 @@
+[
+  {
+    "car_name": "Honda City",
+    "brand": "Honda",
+    "engine": "1498 cc",
+    "power": "121 PS",
+    "torque": "145 Nm",
+    "fuel": "Petrol",
+    "transmission": "CVT",
+    "mileage": "18.4 km/l",
+    "price": "₹12 Lakh"
+  },
+  {
+    "car_name": "Hyundai Verna",
+    "brand": "Hyundai",
+    "engine": "1482 cc",
+    "power": "160 PS",
+    "torque": "253 Nm",
+    "fuel": "Petrol",
+    "transmission": "DCT",
+    "mileage": "20.6 km/l",
+    "price": "₹13 Lakh"
+  },
+  {
+    "car_name": "Hyundai Creta",
+    "brand": "Hyundai",
+    "engine": "1497 cc",
+    "power": "115 PS",
+    "torque": "144 Nm",
+    "fuel": "Petrol",
+    "transmission": "CVT",
+    "mileage": "17.4 km/l",
+    "price": "₹11 Lakh"
+  },
+  {
+    "car_name": "Toyota Innova Hycross",
+    "brand": "Toyota",
+    "engine": "1987 cc",
+    "power": "186 PS",
+    "torque": "206 Nm",
+    "fuel": "Hybrid",
+    "transmission": "eCVT",
+    "mileage": "23.2 km/l",
+    "price": "₹25 Lakh"
+  },
+  {
+    "car_name": "Toyota Fortuner",
+    "brand": "Toyota",
+    "engine": "2755 cc",
+    "power": "204 PS",
+    "torque": "500 Nm",
+    "fuel": "Diesel",
+    "transmission": "Automatic",
+    "mileage": "14.2 km/l",
+    "price": "₹36 Lakh"
+  },
+  {
+    "car_name": "Mahindra XUV700",
+    "brand": "Mahindra",
+    "engine": "1999 cc",
+    "power": "200 PS",
+    "torque": "380 Nm",
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "mileage": "13 km/l",
+    "price": "₹18 Lakh"
+  },
+  {
+    "car_name": "Tata Nexon",
+    "brand": "Tata",
+    "engine": "1199 cc",
+    "power": "120 PS",
+    "torque": "170 Nm",
+    "fuel": "Petrol",
+    "transmission": "Manual",
+    "mileage": "17.5 km/l",
+    "price": "₹9 Lakh"
+  },
+  {
+    "car_name": "Tata Harrier",
+    "brand": "Tata",
+    "engine": "1956 cc",
+    "power": "170 PS",
+    "torque": "350 Nm",
+    "fuel": "Diesel",
+    "transmission": "Automatic",
+    "mileage": "16.8 km/l",
+    "price": "₹15 Lakh"
+  },
+  {
+    "car_name": "Maruti Baleno",
+    "brand": "Maruti Suzuki",
+    "engine": "1197 cc",
+    "power": "90 PS",
+    "torque": "113 Nm",
+    "fuel": "Petrol",
+    "transmission": "AMT",
+    "mileage": "22.3 km/l",
+    "price": "₹7.5 Lakh"
+  },
+  {
+    "car_name": "Kia Seltos",
+    "brand": "Kia",
+    "engine": "1497 cc",
+    "power": "115 PS",
+    "torque": "144 Nm",
+    "fuel": "Petrol",
+    "transmission": "CVT",
+    "mileage": "17 km/l",
+    "price": "₹11 Lakh"
+  }
+]

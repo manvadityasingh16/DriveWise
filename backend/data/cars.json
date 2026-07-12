@@ -1,0 +1,82 @@
+[
+    {
+        "brand": "Hyundai",
+        "model": "Alcazar",
+        "source": "alcazar.pdf"
+    },
+    {
+        "brand": "Hyundai",
+        "model": "Aura",
+        "source": "aura.pdf"
+    },
+    {
+        "brand": "Hyundai",
+        "model": "Creta Ev",
+        "source": "creta-ev.pdf"
+    },
+    {
+        "brand": "Hyundai",
+        "model": "Creta",
+        "source": "creta.pdf"
+    },
+    {
+        "brand": "Honda",
+        "model": "Elevate",
+        "source": "Elevate.pdf"
+    },
+    {
+        "brand": "Hyundai",
+        "model": "Exter",
+        "source": "exter.pdf"
+    },
+    {
+        "brand": "Hyundai",
+        "model": "Grand I10 Nios",
+        "source": "grand-i10-nios.pdf"
+    },
+    {
+        "brand": "Tata",
+        "model": "Harrier Master Brochure",
+        "source": "harrier-master-brochure.pdf"
+    },
+    {
+        "brand": "Hyundai",
+        "model": "I20 N Line",
+        "source": "i20-n-line.pdf"
+    },
+    {
+        "brand": "Hyundai",
+        "model": "I20",
+        "source": "i20.pdf"
+    },
+    {
+        "brand": "Hyundai",
+        "model": "Ioniq 5",
+        "source": "ioniq-5.pdf"
+    },
+    {
+        "brand": "Mahindra",
+        "model": "Mahindra Be 6 Formula E Edition 2026 In",
+        "source": "Mahindra-BE-6-Formula-E-Edition-2026-IN.pdf"
+    },
+    {
+        "brand": "Mahindra",
+        "model": "Mahindra Thar Roxx 2026 In",
+        "source": "Mahindra-Thar-Roxx-2026-IN.pdf"
+    },
+    {
+        "brand": "Hyundai",
+        "model": "Venue N Line",
+        "source": "venue-n-line.pdf"
+    },
+    {
+        "brand": "Hyundai",
+        "model": "Venue",
+        "source": "venue.pdf"
+    },
+    {
+        "brand": "Hyundai",
+        "model": "Verna",
+        "source": "verna.pdf"
+    }
+]
