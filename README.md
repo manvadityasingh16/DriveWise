@@ -4,6 +4,8 @@ DriveWise is an AI-powered automotive assistant that helps users compare cars an
 
 It uses a Retrieval-Augmented Generation (RAG) pipeline with FAISS vector search and Google Gemini AI to provide brochure-grounded responses.
 
+Live Demo -- https://drive-wise-rgnl.vercel.app/
+
 ---
 
 ## 📸 Project Preview
